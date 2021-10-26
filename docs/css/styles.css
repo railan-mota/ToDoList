@@ -1,0 +1,13 @@
+#aviso{
+    margin-top: 2px;
+}
+
+#lista li:hover{
+    background-color: #BB2D4B;
+    color: white;
+    cursor: pointer;
+}
+
+#lista{
+    margin-top: 2px;
+}

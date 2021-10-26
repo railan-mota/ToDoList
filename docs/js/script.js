@@ -6,7 +6,7 @@ let lista = document.getElementById("lista");
 
 let aviso = document.getElementById("aviso");
 
-let tarefas = JSON.parse(localStorage.getItem("tasks") || []);
+let tarefas = JSON.parse(localStorage.getItem("tasks")) || [];
 
 
 
